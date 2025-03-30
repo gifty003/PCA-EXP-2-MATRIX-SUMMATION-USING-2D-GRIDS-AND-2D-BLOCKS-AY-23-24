@@ -1,6 +1,5 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>AIM:To perform matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.</h3>
 <h3>Name: Giftson Rajarathinam N</h3>
 <h3>Reg No: 212222233002</h3>
 <h3>EX. NO 2</h3>
